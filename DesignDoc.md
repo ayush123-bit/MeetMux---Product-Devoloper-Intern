@@ -1,6 +1,6 @@
 
-**Author:** your_registered_email_id  
-**Date:** <put today's date>
+**Author:** ayushrai803@gmail.com
+**Date:** 7 October 2025
 
 ## 1. Overview
 This submission implements two small microservices:
@@ -11,7 +11,7 @@ All services are HTTP REST microservices using Node.js + Express. Inter-service 
 
 ## 2. Folder structure
 
-your_registered_email_id/
+ayushrai803@gmail.com/
 ├── users-service/
 │   ├── src/
 │   ├── tests/
